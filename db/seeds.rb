@@ -7,8 +7,8 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 
-Message.create(greeting: 'Hello')
-Message.create(greeting: 'Hi')
-Message.create(greeting: 'Hey')
-Message.create(greeting: 'Yo')
-Message.create(greeting: 'What\'s up?')
+Message.create(greeting: 'Hello, I am SekoViper.')
+Message.create(greeting: 'Hi, I am SekoViper.')
+Message.create(greeting: 'Hey, I am SekoViper.')
+Message.create(greeting: 'Yo, I am SekoViper.')
+Message.create(greeting: 'What\'s up?, I am SekoViper.')
