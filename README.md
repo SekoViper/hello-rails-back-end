@@ -66,7 +66,7 @@ After installing Ruby, run the following command to install rails.-
 
 - Clone this project on your local machine using the following command in your terminal:
 
-- Make sure to add .env file on your root directory and setup your .env file with your postgres username and password!
+Link to the react app (https://github.com/SekoViper/hello-react-front-end)
 
 ```sh
   git clone https://github.com/SekoViper/hello-rails-back-end.git
@@ -118,7 +118,7 @@ Next setup your .env so that you can create your dbs. Then:
 
 ## 👤 Author <a name="author"></a>
 
-👤 **Mancoba Sihlongonyane**
+👤 **SekoViper**
 
 - GitHub: [@SekoViper](https://github.com/SekoViper)
 - LinkedIn: [Livingstone Dameh](https://www.linkedin.com/in/livingstone-dameh/)
