@@ -1,2 +1,2 @@
-# class Message < ApplicationRecord
-# end
+class Message < ApplicationRecord
+end
